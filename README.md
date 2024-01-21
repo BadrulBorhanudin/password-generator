@@ -44,4 +44,4 @@ The following image shows the web application's appearance and functionality:
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
 * [Click here for the URL of the deployed application.](https://badrulborhanudin.github.io/password-generator/)
-* [Click here fo the URL of the GitHub repository, with a unique name and a README that describes this project.](https://github.com/badrulborhanudin/password-generator.git)
+* [Click here for the URL of the GitHub repository, with a unique name and a README that describes this project.](https://github.com/badrulborhanudin/password-generator.git)
